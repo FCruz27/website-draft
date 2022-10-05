@@ -6,7 +6,7 @@ date: '2022-10-05T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Lay Beliefs by StockImages
   focal_point: Smart
 
 # Slides (optional).
@@ -14,7 +14,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+# slides = ""
 ---
 
 People have been shown to be sceptical of social sciences (relative to "hard" sciences), and of psychology in particular. In this line of research we explore the reasons why this might be so, as well as how to harness the cues that people are relying on when providing these judgments in order to increase trust in psychological science. 

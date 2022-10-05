@@ -6,7 +6,7 @@ date: '2022-10-05T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: TemporalOutgroups by StockImages
   focal_point: Smart
 
 # Slides (optional).
