@@ -2,14 +2,11 @@
 # An instance of the Contact widget.
 widget: contact
 
-# Activate this widget? true/false
-active: true
-
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 6
 
 title: Contact
 subtitle:
