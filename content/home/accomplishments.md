@@ -7,11 +7,11 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 4
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certificates'
-subtitle: ''
+title: 'Accomplishments'
+subtitle: 'Certificates'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -65,8 +65,7 @@ item:
     title: Introduction to Philosophy
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards'
-subtitle: ''
+subtitle: 'Awards'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -78,10 +77,20 @@ date_format: '2006'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_start: '2022-01-01'
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2022-01-01'
     organization: University of Lisbon
     title: 2020-2021 Merit Scholarship
-  - date_start: '2022-01-01'
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2022-01-01'
     organization: JIP22 - Organizing Committee
     title: Best Conference Presentation (3rd place)
 

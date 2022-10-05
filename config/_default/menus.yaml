@@ -5,23 +5,23 @@
 
 main:
   - name: About
-    url: '#about'
-    weight: 10
+    url: /#about
+    weight: 1
   - name: Research Interests
-    url: '#projects'
-    weight: 20
+    url: /#projects
+    weight: 2
   - name: Publications
-    url: '#publications'
-    weight: 30
+    url: /#publications
+    weight: 3
   - name: Awards & Certifications
-    url: '#accomplishments'
-    weight: 40
+    url: /#accomplishments
+    weight: 4
   - name: CV
     url: uploads/CV.pdf
-    weight: 50
+    weight: 5
   - name: Contact
-    url: '#contact'
-    weight: 60
+    url: /#contact
+    weight: 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
