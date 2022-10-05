@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 70
 
 title: Contact
 subtitle:
@@ -36,16 +36,6 @@ content:
     country: Portugal
     country_code: PT
   directions: Office XXX
-  contact_links:
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Francisco-Cruz-16 
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/cruz_fcorreia
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/francisco-cruz-23a58115b/
 
 design:
   columns: '2'
