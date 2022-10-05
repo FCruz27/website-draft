@@ -3,9 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
-# Activate this widget? true/false
-active: true
-
 # This file represents a page section.
 headless: true
 
@@ -13,8 +10,8 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle: 'Certifications'
+title: 'Certificates'
+subtitle: ''
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -26,25 +23,50 @@ date_format: '2006'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_start: '2021-01-01'
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2021-01-01'
     organization: Wesleyan University
     title: Social Psychology
-  - date_start: '2021-01-01'
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2021-01-01'
     organization: École Polytechnique
     title: How to Write and Publish a Scientific Paper
-  - date_start: '2021-01-01'
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2021-01-01'
     organization: HarvardX
     title: Data Science - R Basics
-  - date_start: '2020-01-01'
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2020-01-01'
     organization: University of London
     title: Probability and Statistics - To p or not to p?
-    - date_start: '2020-01-01'
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2020-01-01'
     organization: University of Edinburgh
     title: Introduction to Philosophy
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle: 'Awards'
+title: 'Awards'
+subtitle: ''
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
