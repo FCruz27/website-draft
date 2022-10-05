@@ -1,9 +1,7 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+title: Lay Beliefs about Psychological Science
+summary: People have been shown to be sceptical of social sciences (relative to "hard" sciences), and of psychology in particular. In this line of research we explore the reasons why this might be so, as well as how to harness the cues that people are relying on when providing these judgments in order to increase trust in psychological science. The rejection of psychological science emerges due to a mismathc between how it explains the phenomena and how people experience them. This is particularly the case for phenomena with intense phenomenological experiences (e.g., falling in love). The more a domain is seen. These dualistic beliefs are intuitive in nature, so that they emerge more strongly for An example of using the in-built project page.
+date: '2022-10-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

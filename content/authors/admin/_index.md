@@ -23,7 +23,7 @@ bio: Aspiring researcher - Social and Cognitive Psychology.
 # Interests to show in About widget
 interests:
   - Social Psychology
-  - Social Psychology
+  - Social Cognition
   - Cognitive Psychology
   - Cognitive Sciences
   - Experimental Philosophy
