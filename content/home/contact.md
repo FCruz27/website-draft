@@ -2,6 +2,9 @@
 # An instance of the Contact widget.
 widget: contact
 
+# Activate this widget? true/false
+active: true
+
 # This file represents a page section.
 headless: true
 
@@ -25,32 +28,24 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: franciscocorreiadacruz@gmail.com
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    street: Alameda da Universidade
+    city: Lisbon
+    postcode: '1649-013'
+    country: Portugal
+    country_code: PT
+  directions: Office XXX
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Francisco-Cruz-16 
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/cruz_fcorreia
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/francisco-cruz-23a58115b/
 
 design:
   columns: '2'
