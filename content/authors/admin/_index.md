@@ -25,7 +25,6 @@ interests:
   - Social Psychology
   - Social Cognition
   - Cognitive Psychology
-  - Cognitive Sciences
   - Experimental Philosophy
 
 # Education to show in About widget
